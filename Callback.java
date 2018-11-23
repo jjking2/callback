@@ -3,6 +3,10 @@ package test.callback;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Java class for improving callback readability
+ * @see github jjkin2/callback
+ */
 public class Callback {
 
 	public enum Tag {
