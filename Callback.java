@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * Java class for improving callback readability
- * @see github jjkin2/callback
+ * @see github jjking2/callback
  */
 public class Callback {
 
